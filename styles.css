@@ -21,17 +21,3 @@ h1 {
   .tablink:hover {
     background-color: #777;
   }
-  
-  /* Set default styles for tab content */
-  .tabcontent {
-    color: white;
-    display: none;
-    padding: 50px;
-    text-align: center;
-  }
-  
-  /* Style each tab content individually */
-  #Acceuil {background-color:red;}
-  #Evénement {background-color:green;}
-  #About {background-color:blue;}
-  #Compte {background-color:orange;}
